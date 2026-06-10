@@ -1,5 +1,3 @@
-# Sussy-Math
-## Funny math names
 * [Abstract Nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense)
 * [Abstract Weiner Space](https://en.wikipedia.org/wiki/Abstract_Wiener_space)
 * [Cox Ring](https://en.wikipedia.org/wiki/Cox_ring)
